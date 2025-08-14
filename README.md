@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Data Analyst Banner](https://www.freepik.com/free-ai-image/3d-graph-computer-illustration_382572748.htm#fromView=serie&page=1&position=1)]
+![Data Analyst Banner](https://www.freepik.com/free-ai-image/3d-graph-computer-illustration_382572748.htm#fromView=serie&page=1&position=1)
 
 # 👋 Hi, I'm Aniket Ashok Umathe
 
