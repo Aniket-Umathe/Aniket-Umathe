@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 ![Data Analyst Banner](https://img.freepik.com/free-vector/data-analysis-isometric-illustration_52683-58523.jpg?w=996)
 
-# 👋 Hi, I'm Aniket Ashok Umathe
+# 👋 Hey, I'm Aniket 
 
 🎯 **Aspiring Data Analyst** | 📊 **Data Visualization Enthusiast** | 💻 **Problem Solver**  
 
