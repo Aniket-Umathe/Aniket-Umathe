@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Data Analyst Banner][(https://img.freepik.com/free-vector/data-analysis-isometric-illustration_52683-58523.jpg?w=996)](https://www.freepik.com/free-ai-image/3d-graph-computer-illustration_382572748.htm#fromView=serie&page=1&position=1)
+![Data Analyst Banner](https://img.freepik.com/free-vector/data-analysis-isometric-illustration_52683-58523.jpg?w=996)
 
 # 👋 Hi, I'm Aniket Ashok Umathe
 
@@ -50,5 +50,3 @@ I aim to solve real-world problems using data-driven approaches.
 ![Profile Views](https://komarev.com/ghpvc/?username=aniket-umathe&label=Profile%20Views&color=0e75b6&style=flat)  
 
 > *“Data is the new oil, and I love refining it into insights.”* 🚀
-
-
